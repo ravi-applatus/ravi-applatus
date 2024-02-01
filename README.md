@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ravi-applatus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in NODE Express React Next Nest
+- 🌱 I’m currently learning Roslyn.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me ...
+- 📫 How to reach me ...applatus.ravi@gamil.com
 
 <!---
 ravi-applatus/ravi-applatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
