@@ -2,7 +2,7 @@
 - 👀 I’m interested in NODE Express React Next Nest
 - 🌱 I’m currently learning Roslyn.
 <!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me applatus.ravi@gamil.com
+- 📫 How to reach me zravi@outlook.com
 
 <!---
 ravi-applatus/ravi-applatus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
