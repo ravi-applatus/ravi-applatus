@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ravi-applatus
+- 👋 Hi, I’m @z
 - 👀 I’m interested in NODE Express React Next Nest
 - 🌱 I’m currently learning Roslyn.
 <!-- - 💞️ I’m looking to collaborate on ... -->
