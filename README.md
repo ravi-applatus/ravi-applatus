@@ -1,7 +1,4 @@
-👋 Hi there, I'm
-YourName
-!
-
+👋 Hi there, I'm Ravi!
 💻 Full-Stack Architect | TypeScript Enthusiast | Database Polyglot
 I'm a seasoned software engineer specializing in building high-performance, scalable web applications from the database up to the final user interface. I thrive on tackling complex engineering challenges in the modern JavaScript ecosystem.
 
@@ -65,24 +62,15 @@ Mongoose (ODM)
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Mongoose-800000%3Fstyle%3Dfor-the-badge%26logo%3Dmongoose%26logoColor%3Dwhite" />
 
-📈 GitHub Stats
-<a href="https://github.com/
-
-Your−Username
-">
-<img alt="Your GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=
-
-Your−Username
-&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true" />
+📈 GitHub Stats & Trophies
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dravi-applatus%26theme%3Donedark%26no-frame%3Dtrue%26row%3D1" alt="GitHub Trophies" />
+</p>
+<a href="https://github.com/ravi-applatus">
+<img alt="Your GitHub Stats" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dravi-applatus%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_title%3Dtrue" />
 </a>
-<a href="https://github.com/
-
-Your−Username
-">
-<img alt="Top Languages" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D
-
-Your−Username
-&layout=compact&theme=dark&hide_title=true&langs_count=6" />
+<a href="https://github.com/ravi-applatus">
+<img alt="Top Languages" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dravi-applatus%26layout%3Dcompact%26theme%3Ddark%26hide_title%3Dtrue%26langs_count%3D6" />
 </a>
 
 📬 Let's Connect!
