@@ -75,6 +75,12 @@ const ravi = {
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,dotnet,c,cpp,cs,mongodb,mysql,postgresql,redis,aws,azure,docker,git,linux,postman,webpack,babel,tailwind,bootstrap&perline=9" />
+  
+</div>
+
 ### 💻 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -125,7 +131,7 @@ const ravi = {
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -138,14 +144,6 @@ const ravi = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravi-applatus&theme=radical&hide_border=true&layout=compact" />
-</div>
-
----
-
-## 📈 Detailed GitHub Stats
-
-<div align="center">
   
   ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravi-applatus&theme=radical)
   ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravi-applatus&theme=radical)
@@ -154,12 +152,8 @@ const ravi = {
   
 </div>
 
----
-
-## 📈 GitHub Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffbe0b&area=true&area_color=ffbe0b&custom_title=GitHub%20Contribution%20Graph" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ravi-applatus&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </div>
 
 ---
@@ -182,7 +176,7 @@ const ravi = {
 
 ---
 
-## 🎯 GitHub Metrics
+## 🎯 GitHub Metrics Dashboard
 
 <div align="center">
   <img src="https://metrics.lecoq.io/ravi-applatus?template=classic&config.timezone=Asia%2FKolkata" />
@@ -210,16 +204,6 @@ const ravi = {
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-2,500%20hrs-blue)
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1%20Million%20lines%20of%20code-blue)
-  
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ravi-applatus&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=7)
   
 </div>
 
@@ -282,40 +266,6 @@ const ravi = {
 
 ---
 
-## 🎨 My GitHub Stats Summary
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi-applatus&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=10)
-  
-</div>
-
----
-
-## 💻 Programming Languages & Tools
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,dotnet,c,cpp,cs,mongodb,mysql,postgresql,redis,aws,azure,docker,git,linux,postman,webpack,babel,tailwind,bootstrap&perline=9" />
-  
-</div>
-
----
-
-## 📊 Contribution Stats
-
-<div align="center">
-  
-  ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=ravi-applatus&limit=5&theme=radical&combine_all_yearly_contributions=true)
-  
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </div>
@@ -327,11 +277,5 @@ const ravi = {
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/ravi-applatus/count.svg)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffbe0b&area=true&area_color=ffbe0b&custom_title=Keep%20Contributing!%20🚀)
   
 </div>
