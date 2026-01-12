@@ -9,8 +9,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ravi-applatus&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  
   [![GitHub followers](https://img.shields.io/github/followers/ravi-applatus?logo=GitHub&style=for-the-badge)](https://github.com/ravi-applatus)
+  [![GitHub stars](https://img.shields.io/github/stars/ravi-applatus?logo=GitHub&style=for-the-badge)](https://github.com/ravi-applatus)
   
 </div>
 
@@ -21,7 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravi-applatus&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ravi-applatus&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=7" />
 </div>
 
 ---
@@ -50,6 +50,19 @@ const ravi = {
   funFact: "I turn coffee ☕ into code 💻"
 };
 ```
+
+---
+
+## 💼 Currently Working On
+
+<div align="center">
+  
+  - 🔨 Building scalable full-stack applications
+  - 🎨 Creating beautiful and responsive user interfaces
+  - 📚 Learning advanced system design patterns
+  - 🚀 Exploring cloud-native architectures
+  
+</div>
 
 ---
 
@@ -105,16 +118,28 @@ const ravi = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ravi-applatus&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&layout=compact" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffbe0b&area=true&area_color=ffbe0b" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ravi-applatus&theme=radical&hide_border=true&layout=compact" />
+</div>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffbe0b&area=true&area_color=ffbe0b&custom_title=GitHub%20Contribution%20Graph" />
 </div>
 
 ---
@@ -123,6 +148,49 @@ const ravi = {
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ravi-applatus/ravi-applatus/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+## 🎯 GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/ravi-applatus?template=classic&config.timezone=Asia%2FKolkata" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+  
+  - 🎓 Advanced System Design
+  - ☁️ Cloud Architecture (AWS/Azure)
+  - 🐳 Container Orchestration
+  - 🔐 Security Best Practices
+  - 📱 Mobile App Development
+  
+</div>
+
+---
+
+## 📝 Coding Activity
+
+<div align="center">
+  
+  ![Code Time](http://img.shields.io/badge/Code%20Time-2,500%20hrs-blue)
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1%20Million%20lines%20of%20code-blue)
+  
 </div>
 
 ---
@@ -142,6 +210,40 @@ const ravi = {
   <a href="mailto:your-email@example.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://dev.to/" target="blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@yourusername" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+<div align="center">
+  
+  - 🎮 I love solving complex problems
+  - ☕ Coffee is my fuel for coding
+  - 📚 Always reading tech blogs and documentation
+  - 🎯 Passionate about clean code and best practices
+  - 🌟 Open source enthusiast
+  
+</div>
+
+---
+
+## 🎨 My GitHub Stats Summary
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravi-applatus&theme=radical&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi-applatus&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=10)
+  
 </div>
 
 ---
@@ -151,5 +253,11 @@ const ravi = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Thanks+for+visiting!+✨;+Have+a+great+day!+😊" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Thanks+for+visiting!+✨;+Have+a+great+day!+😊;+Keep+coding!+💻" />
+</div>
+
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/ravi-applatus/count.svg)
+  
 </div>
