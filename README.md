@@ -11,6 +11,7 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=ravi-applatus&label=Profile%20views&color=0e75b6&style=for-the-badge)
   [![GitHub followers](https://img.shields.io/github/followers/ravi-applatus?logo=GitHub&style=for-the-badge)](https://github.com/ravi-applatus)
   [![GitHub stars](https://img.shields.io/github/stars/ravi-applatus?logo=GitHub&style=for-the-badge)](https://github.com/ravi-applatus)
+  ![GitHub commits](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Commits&color=181717&query=%24.total_count&url=https://api.github.com/search/commits?q=author:ravi-applatus&style=for-the-badge)
   
 </div>
 
@@ -27,6 +28,12 @@
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+  
+  ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravi-applatus&theme=radical)
+  
+</div>
 
 ```typescript
 const ravi = {
@@ -136,6 +143,19 @@ const ravi = {
 
 ---
 
+## 📈 Detailed GitHub Stats
+
+<div align="center">
+  
+  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ravi-applatus&theme=radical)
+  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ravi-applatus&theme=radical)
+  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravi-applatus&theme=radical)
+  ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ravi-applatus&theme=radical)
+  
+</div>
+
+---
+
 ## 📈 GitHub Contribution Graph
 
 <div align="center">
@@ -195,6 +215,28 @@ const ravi = {
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  ![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ravi-applatus&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=7)
+  
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  
+  <a href="https://github.com/ravi-applatus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ravi-applatus&repo=ravi-applatus&theme=radical" />
+  </a>
+  
+</div>
+
+---
+
 ## 🔗 Connect with Me
 
 <div align="center">
@@ -215,6 +257,12 @@ const ravi = {
   </a>
   <a href="https://medium.com/@yourusername" target="blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/" target="blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/" target="blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
 </div>
 
@@ -248,6 +296,26 @@ const ravi = {
 
 ---
 
+## 💻 Programming Languages & Tools
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,dotnet,c,cpp,cs,mongodb,mysql,postgresql,redis,aws,azure,docker,git,linux,postman,webpack,babel,tailwind,bootstrap&perline=9" />
+  
+</div>
+
+---
+
+## 📊 Contribution Stats
+
+<div align="center">
+  
+  ![Contribution Stats](https://github-contributor-stats.vercel.app/api?username=ravi-applatus&limit=5&theme=radical&combine_all_yearly_contributions=true)
+  
+</div>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=footer"/>
 </div>
@@ -259,5 +327,11 @@ const ravi = {
 <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/ravi-applatus/count.svg)
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravi-applatus&theme=redical&hide_border=true&bg_color=0d1117&color=ff006e&line=ff006e&point=ffbe0b&area=true&area_color=ffbe0b&custom_title=Keep%20Contributing!%20🚀)
   
 </div>
