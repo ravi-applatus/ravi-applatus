@@ -1,3 +1,4 @@
+<img src="koi/koi.gif" width="256" alt="My koi" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,31,42&height=220&section=header&text=RAVI%20%7C%20FOUNDING%20ENGINEER&fontSize=32&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Architect%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI-Native%20Platforms%20%F0%9F%87%AE%F0%9F%87%B3&descFontSize=16&descAlignY=58" width="100%" />
 
